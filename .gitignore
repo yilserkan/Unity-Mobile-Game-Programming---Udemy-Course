@@ -2,19 +2,19 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Aa]steroid Avioder/[Ll]ibrary/
-/[Aa]steroid Avioder/[Tt]emp/
-/[Aa]steroid Avioder/[Oo]bj/
-/[Aa]steroid Avioder/[Bb]uild/
-/[Aa]steroid Avioder/[Bb]uilds/
-/[Aa]steroid Avioder/[Ll]ogs/
-/[Aa]steroid Avioder/[Mm]emoryCaptures/
-/[Aa]steroid Avioder/Assets/Materials/
-/[Aa]steroid Avioder/Assets/Prefabs/
-/[Aa]steroid Avioder/Assets/Presets/
-/[Aa]steroid Avioder/Assets/Settings/
-/[Aa]steroid Avioder/Assets/StarSparrow/
-/[Aa]steroid Avioder/Assets/TextMesh Pro/
+/[Aa]steroid Avoider/[Ll]ibrary/
+/[Aa]steroid Avoider/[Tt]emp/
+/[Aa]steroid Avoider/[Oo]bj/
+/[Aa]steroid Avoider/[Bb]uild/
+/[Aa]steroid Avoider/[Bb]uilds/
+/[Aa]steroid Avoider/[Ll]ogs/
+/[Aa]steroid Avoider/[Mm]emoryCaptures/
+/[Aa]steroid Avoider/Assets/Materials/
+/[Aa]steroid Avoider/Assets/Prefabs/
+/[Aa]steroid Avoider/Assets/Presets/
+/[Aa]steroid Avoider/Assets/Settings/
+/[Aa]steroid Avoider/Assets/StarSparrow/
+/[Aa]steroid Avoider/Assets/TextMesh Pro/
 
 /Ball Launcher/[Ll]ibrary/
 /Ball Launcher/[Tt]emp/
