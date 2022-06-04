@@ -2,13 +2,38 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/[Aa]steroid Avioder/[Ll]ibrary/
+/[Aa]steroid Avioder/[Tt]emp/
+/[Aa]steroid Avioder/[Oo]bj/
+/[Aa]steroid Avioder/[Bb]uild/
+/[Aa]steroid Avioder/[Bb]uilds/
+/[Aa]steroid Avioder/[Ll]ogs/
+/[Aa]steroid Avioder/[Mm]emoryCaptures/
+/[Aa]steroid Avioder/Assets/Materials/
+/[Aa]steroid Avioder/Assets/Prefabs/
+/[Aa]steroid Avioder/Assets/Presets/
+/[Aa]steroid Avioder/Assets/Settings/
+/[Aa]steroid Avioder/Assets/StarSparrow/
+/[Aa]steroid Avioder/Assets/TextMesh Pro/
+
+/Ball Launcher/[Ll]ibrary/
+/Ball Launcher/[Tt]emp/
+/Ball Launcher/[Oo]bj/
+/Ball Launcher/[Bb]uild/
+/Ball Launcher/[Bb]uilds/
+/Ball Launcher/[Ll]ogs/
+/Ball Launcher/[Mm]emoryCaptures/
+
+/Simple Driving/[Ll]ibrary/
+/Simple Driving/[Tt]emp/
+/Simple Driving/[Oo]bj/
+/Simple Driving/[Bb]uild/
+/Simple Driving/[Bb]uilds/
+/Simple Driving/[Ll]ogs/
+/Simple Driving/[Mm]emoryCaptures/
+/Simple Driving/Assets/PolygonPrototype
+/Simple Driving/Assets/TextMesh Pro
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
